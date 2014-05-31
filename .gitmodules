@@ -1,0 +1,9 @@
+[submodule "chef"]
+	path = chef
+	url = https://github.com/opscode/chef.git
+[submodule "puppet"]
+	path = puppet
+	url = https://github.com/puppetlabs/puppet.git
+[submodule "salt"]
+	path = salt
+	url = https://github.com/saltstack/salt.git
